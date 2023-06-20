@@ -1,4 +1,4 @@
-### Oi, eu sou o Hiago 👋
+### Oi, eu sou o Hiago Soares 👋
 
 - 🤓 Estudante 
 - 📘 Terceiro semestre de Análise e desenvolvimento de sistemas 
@@ -12,13 +12,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hiiago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
  <div style="display: inline_block"><br>
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>
+ <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+ <img height="35em" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>  
+ <img height="35em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img height="35em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+ </div>
 
 ##
 
 <div>
   <a href="https://www.instagram.com/hiiago.silva_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/hiago-soares-745694236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/hiago-soares-745694236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
