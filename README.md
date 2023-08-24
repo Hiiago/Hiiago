@@ -1,7 +1,7 @@
 ### Oi, eu sou o Hiago Soares 👋
 
 - 🤓 Estudante 
-- 📘 Terceiro semestre de Análise e desenvolvimento de sistemas 
+- 📘 Ultimo semestre de Análise e desenvolvimento de sistemas 
 - 👾 Faço cursos e muita pesquisa para me adequar ainda mais à minha área 
 - 🎮 Curto jogos online ou de história 
 - 🍡 Aberto a novas amizades na área
