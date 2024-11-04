@@ -1,7 +1,7 @@
 ### Oi, eu sou o Hiago Soares 👋
 
-- 🤓 Estudante 
-- 📘 Graduado na Cruzeiro do Sul como tecnologo em análise e desenvolvimento de sistemas
+- 👦🏻  Em busca da primeira oportunidade no mercado de T.I ! 
+- 📘 Graduado na Cruzeiro do Sul com superior em análise e desenvolvimento de sistemas
 - 👾 Faço cursos e muita pesquisa para me adequar ainda mais à minha área 
 - 🎮 Curto jogos online e de história 
 - 🍡 Aberto a novas amizades na área
@@ -21,14 +21,14 @@
 Python;
 SQL Server;
 Django;
-AWS;
 Pandas;
+Power BI;
+AWS;
 ORM;
 Scrum;
 Kanbam;
 Trello;
 Git e GitHub;
-Power BI;
 POO
 
 ##
