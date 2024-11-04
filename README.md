@@ -1,6 +1,7 @@
 ### Oi, eu sou o Hiago Soares 👋
 
-- 👦🏻  Em busca da primeira oportunidade no mercado de T.I ! 
+- 👦🏻 Em busca da primeira oportunidade no mercado de T.I !
+- 🛹 Tenho 23 anos de idade
 - 📘 Graduado na Cruzeiro do Sul com superior em análise e desenvolvimento de sistemas
 - 👾 Faço cursos e muita pesquisa para me adequar ainda mais à minha área 
 - 🎮 Curto jogos online e de história 
